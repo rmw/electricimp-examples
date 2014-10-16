@@ -24,3 +24,4 @@ Dreamforce 2014 Projects
 - log in with app -connect to network
 - "blink up" - hold til the flashing stops
 - when light is blinking green then its online
+- programmed in squirrel (like javascript, more OO; everything stored in hash table; dynamic typing, interpreted)
