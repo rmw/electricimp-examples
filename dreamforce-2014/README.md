@@ -17,6 +17,7 @@ Dreamforce 2014 Projects
 - os on top of hardware
 - cloud agents (micro servers) - incoming/outgoing http + simple message passing
 - secure
+- ide.electricimp.com for devs; have a separate tools for 10++ devices (manufacturers)
 
 #### demo
 
