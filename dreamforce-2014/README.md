@@ -9,3 +9,12 @@ Dreamforce 2014 Projects
 0. Example 2 - Agent Web Page
 0. Example 3 - Conference Badge
 0. Example 4 - IR Blaster
+
+
+### Notes
+
+- sell hardware (inexpensive) - wifi connected
+- os on top of hardware
+- cloud agents (micro servers) - incoming/outgoing http + simple message passing
+- secure
+
