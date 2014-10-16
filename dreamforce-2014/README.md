@@ -25,3 +25,4 @@ Dreamforce 2014 Projects
 - "blink up" - hold til the flashing stops
 - when light is blinking green then its online
 - programmed in squirrel (like javascript, more OO; everything stored in hash table; dynamic typing, interpreted)
+- event driven - don't need todo blocking sleeps, can do scheduled event "wakeup"
