@@ -18,3 +18,8 @@ Dreamforce 2014 Projects
 - cloud agents (micro servers) - incoming/outgoing http + simple message passing
 - secure
 
+#### demo
+
+- log in with app -connect to network
+- "blink up" - hold til the flashing stops
+- when light is blinking green then its online
